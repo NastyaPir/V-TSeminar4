@@ -1,4 +1,4 @@
-body{background-color:ivory;}
+body{background-color: black;}
 body ul{color: crimson;}
 body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: lighter; font-size:medium; color: darkcyan;}
@@ -11,4 +11,5 @@ a{color: darkviolet;}
     justify-content: space-around;
 }
 div {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-weight: lighter;color: navy;}
+font-weight: lighter;color:blueviolet;}
+table table-primary {background-color: cornsilk;}
