@@ -12,4 +12,6 @@ a{color: darkviolet;}
 }
 div {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: lighter;color:blueviolet;}
-table table-primary {background-color: cornsilk;}
+table {background-color:midnightblue; color: bisque;}
+td {color:aqua;}
+thead {color: bisque;}
